@@ -1,0 +1,5 @@
+git status // Gets the status from the Online Repo
+git add //Adds the selected file to the repo
+git . //Adds all files in the current directory to repo
+git commit -m "message" //Commits the documents to the repo
+git push //Pushes all commited files to the repo
